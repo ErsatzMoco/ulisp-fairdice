@@ -5,7 +5,7 @@ Programmed in [uLisp](http://www.ulisp.com)
 ![photo](fairdice.jpg)
 ![schematic](fairdice_schematic.jpg)
 
-#BOM:
+# BOM:
 - 2 x Adafruit LED Charlieplexed Matrix
 - 2 x Adafruit 16x9 Charlieplexed PWM LED Matrix Driver
 - Waveshare RP2040-Zero or comparably small RP2040 board
