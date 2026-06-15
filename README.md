@@ -15,3 +15,6 @@ Programmed in [uLisp](http://www.ulisp.com)
 - push button round for 11 mm hole
 - miniature slide switch, bore hole distance approx. 15 mm, dimensions 11 x 6 mm 
 - 2 resistors 2,2 K
+
+# Note:
+The subdirectory "ulisp-stddice" contains a software version with "standard dice" functionality (i.e. pseudo-random, not "fair"). It uses the same hardware, the same effects and the same handling. To install ulisp-stddice just clone that directory to your local drive and open/compile/upload it with the Arduino IDE.
